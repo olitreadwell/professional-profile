@@ -31,6 +31,14 @@ I excel while I continue to learn as part of a tight-knit community. A team holi
 
 ## Questions
 
+### What is your employment authorization status in the United States?
+
+I'm a USA citizen, with passport. I do not need sponsorship to remain in the country or to work for an employer.
+
+### What range of compensation do you have in mind?
+
+I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 5+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that within 1-2 standard deviations above the median. I am not considering job opportunities that are below $100,000.
+
 ### Give me an example of a time when you set a goal and were able to meet or achieve it.
 
 One of the goals that I have probably continued to show as my work to set goals and surpass them, is when I wanted to move abroad after University.
@@ -70,14 +78,6 @@ This is something I consider whenever I arrive into a new role. How do I make an
 While as a software engineer with Bypass Mobile, I took it upon myself to document and video tape portions of the onboarding process. Doing so gave Bypass Mobile's technology team feedback of holes that were missing within their onboarding while also working to fill those gaps of knowledge.
 
 This capacity to get in there and do the work, small and large makes my role as an engineer much more team-focused than it is centered around what feature will get me the best exposure on a team.
-
-### What range of compensation do you have in mind?
-
-I'm looking for an industry competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role.
-
-### What is your employment authorization status in the United States?
-
-I'm a USA citizen, with passport. I do not need sponsorship to remain in the country or to work for an employer.
 
 ### What does a good company culture look like to you?
 
