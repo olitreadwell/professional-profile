@@ -37,7 +37,7 @@ I'm a USA citizen, with passport. I do not need sponsorship to remain in the cou
 
 ### What range of compensation do you have in mind?
 
-I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 5+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviations above the median. I am not considering job opportunities that are below $100,000.
+I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 5+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviations above the median. I am not considering job opportunities that are below $130,000.
 
 ### Give me an example of a time when you set a goal and were able to meet or achieve it.
 
@@ -149,3 +149,10 @@ This is a trap. I end up losing myself on smaller problems. I go way over my tim
 If I was in a production level environment and was told I have 1 hour to deliver something to production, I wouldn't write pretty code, or probably even tests, it wouldn't be accessible, and I would probably ignore most non-critically blocking aspects of a code review. This would be a something is on fire scenario and I would ship something that would "work". I would communicate all of this, including the trade-offs of work of this sort, to my team, in my code, and in my pull request. Once it was delivered and nothing was broken, I'd prioritize following that work up with other improvements. I'd focus on adding tests, refactoring the code to look better, and adding the secondary features that were asked for.
 
 The info above may not change the code that I wrote for a technical challenge. Hopefully, it gives you a clearer insight into the way that I contribute to a team. It also helps me to think about how I will work on technical assessments in the future.
+
+All this said, there are numerous examples of companies out there that do not require riddles, mind puzzles, whiteboard interviews, or lengthy technical challenges as part of their interview process. I like to recommend these resources on interviewing, which may suggest alternatives to the types of technical challenge practices that you have. 
+
+[How We Interview at Pivotal](https://content.pivotal.io/blog/how-we-interview-at-pivotal)
+[Updating Our Technical Interview - Thoughtbot](https://thoughtbot.com/blog/updating-our-technical-interview)
+[How to Interview Engineers - Triblebyte](https://triplebyte.com/blog/how-to-interview-engineers)
+[How to Make Tech Interviews a Little Less Awful - Rachel Thomas](https://medium.com/@racheltho/how-to-make-tech-interviews-a-little-less-awful-c29f35431987)
