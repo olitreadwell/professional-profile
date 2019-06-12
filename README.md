@@ -153,6 +153,9 @@ The info above may not change the code that I wrote for a technical challenge. H
 All this said, there are numerous examples of companies out there that do not require riddles, mind puzzles, whiteboard interviews, or lengthy technical challenges as part of their interview process. I like to recommend these resources on interviewing, which may suggest alternatives to the types of technical challenge practices that you have. 
 
 [How We Interview at Pivotal](https://content.pivotal.io/blog/how-we-interview-at-pivotal)
+
 [Updating Our Technical Interview - Thoughtbot](https://thoughtbot.com/blog/updating-our-technical-interview)
+
 [How to Interview Engineers - Triblebyte](https://triplebyte.com/blog/how-to-interview-engineers)
+
 [How to Make Tech Interviews a Little Less Awful - Rachel Thomas](https://medium.com/@racheltho/how-to-make-tech-interviews-a-little-less-awful-c29f35431987)
