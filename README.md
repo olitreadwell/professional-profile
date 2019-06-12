@@ -37,7 +37,7 @@ I'm a USA citizen, with passport. I do not need sponsorship to remain in the cou
 
 ### What range of compensation do you have in mind?
 
-I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 5+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviations above the median. I am not considering job opportunities that are below $130,000.
+I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 5+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviations above the median. I am not considering job opportunities that are below $130,000 for a typical full time salaried position.
 
 ### Give me an example of a time when you set a goal and were able to meet or achieve it.
 
