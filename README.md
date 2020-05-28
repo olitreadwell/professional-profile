@@ -11,7 +11,7 @@ _(Best Version of my Professional Profile, including 25+ professional recommenda
 
 [Personal Site](http://olitreadwell.com)
 
-[Resume - Updated 2019 April](https://drive.google.com/open?id=1xfJVN6z3gGGk7n_xB2MrzaeJXDphiUDW)
+[Resume - Updated 2020 May](https://drive.google.com/file/d/1K047eBGlfCdj15SCfQ9I9h5cekNQhdyv/view?usp=sharing)
 
 ## Summary
 
