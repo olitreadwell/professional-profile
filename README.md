@@ -33,11 +33,18 @@ Key skills include: Software Development Life Cycle | Full-Stack Engineering | W
 
 Technology skills include:
 •  Scripting: JavaScript, Ruby, HTML, CSS 
+
 •  Frameworks: NodeJS, ReactJS, Rails, Sinatra
+
 •  Testing: Jest, Mocha, Chai, Sinon, RSpec, MiniTest
+
 •  Styles: SASS/SCSS, LESS
+
 •  Databases: SQL (MySQL) 
+
 •  Tools: Git, Jenkins, Heroku, Github
+
+
 ## Questions
 
 ### What is your employment authorization status in the United States?
