@@ -39,7 +39,7 @@ I was born in the United Kingdom, to a English mother and American father. I hav
 
 ### What range of compensation do you have in mind?
 
-I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 6+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviation above the median for work that is 30+ hours per week. 
+I'm looking for an industry, market, and locale competitive salary in line with the role and responsibilities as well as the unique experience and education I bring to the role. I have been working as a professional software engineer for 6+ years and base my salary requirements on sites like LinkedIn Salary, GlassDoor, PayScale and other aggregated data sources. From within these sources I consider the range of salaries that are within 1-2 standard deviations from the median for work that is 30+ hours per week. 
 
 ### Give me an example of a time when you set a goal and were able to meet or achieve it.
 
