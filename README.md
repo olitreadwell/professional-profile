@@ -15,20 +15,29 @@ _(Best Version of my Professional Profile, including 25+ professional recommenda
 
 ## Summary
 
-Collaborative, customer-focused, articulate and analytical software engineer and technical trainer. Skilled in strategic planning, code review, technical education, community building, public speaking, and project management.
+As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals. 
 
-With 10 years experience working within the technology industry, 5 dedicated to contributing high-value code and skills as a Software Engineer.
+Examples of my career highlights include:
+► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
 
-Recently working as a full-stack engineer delivering critical revenue producing features viewed by millions internationally as part of Condé Nast's engineering team. My work is part of the paywalls that have drastically grown subscription revenue present on desktop and mobile for The New Yorker, Wired Magazine, Vanity Fair, and Architectural Digest.
+► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
 
-Previously having the privilege to provide technical training and mentorship to 100's of entry-level Software Engineers. Ensuring understanding of complex technical topics, through in-person or remote training courses. Topics include, but are not limited to: Asynchronous JavaScript, User Authentication/Authorization, Version Control with Git.
+► Mentoring and developing future software engineers as a technical trainer full-time for Galvanize, Inc and part-time for General Assembly Austin, CODEACADEMY, and Code Austin.
 
-Beginning my Software Engineer career by further developing a customer-focused understanding. Working with critical systems and databases to debug and fix customer concerns provided by my customer-facing support counterparts.
+In my early career, I had the opportunity to diversify my experience by serving in venture capital, sales, and technology operations roles before transitioning into software development. 
 
-All this builds on 5 years working a variety of roles with high-growth venture-backed technology companies. Experience within both fundraising, project management, event planning, public speaking, writing, strategic partnerships, sales, building customer relationships, marketing, operations, analytics, and many more of the many hats included when working with companies of this type.
+Outside of my hands-on work, I have organized events including Refresh Austin, Start-up Weekend, and Silicon Beach Melbourne (in Australia) and am a regular industry speaker for events like Austin on Rails and the General Assembly Congress Austin. 
 
-I excel while I continue to learn as part of a tight-knit community. A team holistically invested in my career progression as a software engineer. Supporting my desire to contribute to my community. All while I work to improve myself, the quality of our codebase, docs, and workflows.
+Key skills include: Software Development Life Cycle | Full-Stack Engineering | Web Development | Programming | Code Review | Agile Development | Project Management | Test-Driven Development | Technical Training & Mentoring | Legacy Code Refactoring | Technical Writing 
+(This section in your summary is important to ensure you show up in relevant searches.)
 
+Technology skills include:
+•  Scripting: JavaScript, Ruby, HTML, CSS 
+•  Frameworks: NodeJS, ReactJS, Rails, Sinatra
+•  Testing: Jest, Mocha, Chai, Sinon, RSpec, MiniTest
+•  Styles: SASS/SCSS, LESS
+•  Databases: SQL (MySQL) 
+•  Tools: Git, Jenkins, Heroku, Github
 ## Questions
 
 ### What is your employment authorization status in the United States?
