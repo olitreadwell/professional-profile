@@ -18,6 +18,7 @@ _(Best Version of my Professional Profile, including 25+ professional recommenda
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals. 
 
 Examples of my career highlights include:
+
 ► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
 
 ► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
